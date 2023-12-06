@@ -1,0 +1,24 @@
+{
+    "development": {
+        "username": "upwork",
+        "password": "5SwBzuzyq99iA2e",
+        "database": "vigie_test",
+        "host": "terrain.cdx1x2gzjgqp.eu-west-3.rds.amazonaws.com/",
+        "dialect": "mysql"
+    },
+    "test": {
+        "username": "upwork",
+        "password": "5SwBzuzyq99iA2e",
+        "database": "vigie_test",
+        "host": "http://terrain.cdx1x2gzjgqp.eu-west-3.rds.amazonaws.com/",
+        "dialect": "mysql"
+    },
+    "production": {
+        "username": "upwork",
+        "password": "5SwBzuzyq99iA2e",
+        "database": "vigie_test",
+        "host": "http://terrain.cdx1x2gzjgqp.eu-west-3.rds.amazonaws.com/",
+        "dialect": "mysql"
+    }
+
+}
